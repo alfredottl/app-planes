@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "app-planes-485813",
+  "private_key_id": "7042cb6de0035c6a390891d641518b2526adbd2b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmuPp5UTgNH0ej\nR5mMlyBLZF0kLF+J/l1GP1DQ36Uvcxyo9brNGlLosmr/ljYeFPi5waA9ZvtaHSTH\nrRxdYCeNxcaaN8Tg/BbghgBSqixyOljmj7fqOCx5FVIABq5TROg0iukQlmHtpnze\nMmGSDh+FoFB0bCg4L8BQQmD48xm07FN0wKFGqydwyVOvRDl5fDVZBWMT9pXB8OkN\nSzrh6fc8mDADflvkF8xdv1rFbEv9mXXd1u+qThJg1qbCcLf7MXrX7CgL07uN7l1m\nWJ2WSA317P0IBfTran+95v/q0aEsy9vfIZzW0c8wj6dPO33eySkxS3JQzodxBdiV\nWHSUDO73AgMBAAECggEAKrlrgoxUM1SpPIf8KuGNhpR1I/B1GT1EdNyD3sr5H0Q9\n+3RhRu8wgO476jx5qNLR/HRIloOd9PVT+BF+G9WovTWKE/onq0oeqLHeQlDWq/0U\nzBzXUh/MEclrZpNPuAoIAXL5j+Uhuk94X06E33NcE5fGFlejJObjvw2LoTBXDZw5\n/l+liiU+n7YcjAwyG1K3k9AB8ZKNJjsmEOKEEgyID9zVLL9vgUDI4DiukAMiC8g6\n34pB6mbIaVToEkWLLetdRofjXmna+mLwfH9gx7NLojlbtp/AJlL7JSBOZzm/q+VR\nbD3MWTQv/6ntKl9L0zIBpg8U5WxTH6s2Fdqth43M0QKBgQDffvinnAmx2rVpJ9a4\njSmOJctZV+zuX2YM38EmbQeEap+lXUW7CZex/Kj1AM6jAmaPJtDbm/43gqyNP5xA\n0dwrVAp6nperXvPUTb5ihe2XFyu9mluS03vnnMBH/u71xkSZUO3OVLbHI4JN6Ylv\nVrtDo95+0u+3brR22oV5IHdjpwKBgQC++EN9xh4Fjs+VxmiR8wpF2YUVXSBwWmP0\nhziHs3DNT/jI8F6YUnd5Nsl79YFMp7k2m4ILHQiibbYb3vryiCzQextOMtPLZyxt\nl0ZKWfvkIdzYqOaW1VsYUnx5wIQ7iXNPPpOlbZZ9XyUZvNFmspXGo3LGUZfsgY/j\nyGTkDMHEMQKBgEGOBbNsEm/nneR9Of8h8LlwHohTQPzeYJmQHCCARH8zoyYnCKgG\n9UbQvGI43WN09c4xbXus8tEndCNuMA/XPoQ6/2PeFtC+Zji0oQ5XCEyUEFFp8EhN\n3f8evEuh3Eec40wxL7+gm4gnwzXFNXnB7+W0MDP0/TlJsIdYK2RPAJXrAoGAH5WB\n3BBjMLog3P2Wl+ThYxIJr7HaRpq8g1nF4LOtyVcbp2gRzRF+jv6fri+5dcsbl8t6\nY4omvm50uwFS8b/R4Z0qs/E2FCL5NxrY1j0xqtZq5y5wDKw2x7wEuEI93HbsKkQI\nOUj5pbyRr0MKQvjwSo0H04L1JHl9Kcgf35O4jFECgYBCMB6LDeb5ZEu/k1OTucGn\nRIWkaDCwFJ2ayJUMdx/Hzpna1Iw6S+iz9DhGfzDxj/SxskMxg5stRg251xdDDPsg\nKW5s1hSLNu/kQQkMVy0Ub4AKurNEWkFzMjF5IVT/ybAVPKifbmYEG0MX4bgVeqDp\n+HUvCv3HtoDsxp3bi2lWMQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-planes@app-planes-485813.iam.gserviceaccount.com",
+  "client_id": "102964500755233660279",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-planes%40app-planes-485813.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
