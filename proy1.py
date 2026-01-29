@@ -21,8 +21,8 @@ def guardar_datos(df):
 # Cargar datos al inicio
 try:
     df = cargar_datos()
-except:
-    st.error("No se pudo conectar a la hoja. Revisa los 'Secrets'.")
+except Exception as e:
+    st.error(f"⚠️ AQUÍ ESTÁ EL ERROR REAL: {e}")
     st.stop()
 
 # 3. Formulario para añadir
