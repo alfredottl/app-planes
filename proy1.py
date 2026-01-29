@@ -2,6 +2,17 @@ import streamlit as st
 import pandas as pd
 from streamlit_gsheets import GSheetsConnection
 
+# Comprobación extra.
+try:
+    if "connections" in st.secrets and "gsheets" in st.secrets["connections"]:
+        # Accedemos a la clave
+        clave_actual = st.secrets["connections"]["gsheets"]["private_key"]
+        # Si tiene "\\n" literales (doble barra), los cambiamos por saltos reales
+        if "\\n" in clave_actual:
+            st.secrets["connections"]["gsheets"]["private_key"] = clave_actual.replace("\\n", "\n")
+except Exception as e:
+    pass # Si falla, seguimos normal
+
 # 1. Configuración
 st.set_page_config(page_title="Nuestros Planes", page_icon="❤️")
 st.title("❤️ Nuestra Agenda Compartida")
