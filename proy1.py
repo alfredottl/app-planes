@@ -23,7 +23,7 @@ conn = st.connection("gsheets", type=GSheetsConnection)
 
 def cargar_datos():
     # Leemos la hoja completa
-    return conn.read(worksheet="Hoja 1") # Asegúrate que tu pestaña se llama "Hoja 1"
+    return conn.read(worksheet="Hoja 1", ttl=0) # Asegúrate que tu pestaña se llama "Hoja 1"
 
 def guardar_datos(df):
     # Escribimos los datos de vuelta
